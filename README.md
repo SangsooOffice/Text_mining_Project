@@ -11,7 +11,7 @@ The increasing trend of cyberbullying is undoubtedly a concern in today's digita
 
 **Preprocessing**
 - Because it is labeled as a type of hate speech, it is re-encoded into binary form after looking at the label
-- - For training, we set the ratio of train, validation, and test sets to 7:1:2. 
+- For training, we set the ratio of train, validation, and test sets to 7:1:2. 
 
 **Modeling**
 - Fine-tuning a pre-trained model for the task of detecting hate speech.
